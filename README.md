@@ -1,7 +1,7 @@
 ## Olá! Eu sou Alessandra Marinho 👋
 
 <br>
- <div style="display: inline_block" >
+ <div style="display: inline" >
   <a href="https://github.com/alessandraarm">
     <img height="172em"src="https://github-readme-stats-nine-beta-13.vercel.app/api?username=alessandraarm&show_icons=true&theme=buefy&include_all_commits=true"/> 
    <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandraarm&layout=compact&langs_count=7&theme=swift&include_all_commits=true"/>
