@@ -1,4 +1,8 @@
-## Olá! Eu sou Alessandra Marinho 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=733bc3" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=733bc3&width=435&lines=Oie!!+Aqui+é+a+Alessandra+Marinho;Especialista+SAP+-+ABAP%2C+BTP%2C+Fiori""/>
+</a>
 
 <br>
  <div style="display: inline" >
@@ -15,7 +19,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br><br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=733bc3&section=footer" alt="footer"/> 
+
+<br><br>
 ## 💻 Aqui os meus repos!  <br />
 
